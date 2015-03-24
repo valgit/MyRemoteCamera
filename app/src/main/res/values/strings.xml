@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRemoteCamera</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ip">addr</string>
+    <string name="setting_title">connection</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="port">port</string>
+</resources>
